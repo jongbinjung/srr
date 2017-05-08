@@ -1,0 +1,14 @@
+Package: srr
+Type: Package
+Title: Implement Select-Regress-and-Round
+Version: 0.1.0
+Authors@R: person("Jongbin", "Jung", email = "jongbin@jongbin.com",
+  role = c("aut", "cre"))
+Maintainer: Jongbin Jung <jungjongbin86@gmail.com>
+Description: Implementation of Select-Regress-and-Round, as initially proposed 
+    in https://arxiv.org/abs/1702.04690
+License: GPL-3 | file LICENSE
+Depends:
+    R (>= 3.2.0)
+Encoding: UTF-8
+LazyData: true
